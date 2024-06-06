@@ -1,0 +1,17 @@
+.title{
+    display: flex;
+    background-color: orange;
+    text-align: center;
+    font-family: "Jersey 10", sans-serif;
+    color: rgb(23, 23, 172);
+    padding: 10px;
+    justify-content: center;
+}
+.title img{
+    width: 70px;
+    border-radius: 50%;
+    margin-right: 8px;
+}
+h1{
+    text-transform: uppercase;
+}
