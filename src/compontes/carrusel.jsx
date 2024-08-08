@@ -1,4 +1,4 @@
-import "../estilos/carrusel.css"
+
 export default function Carrusel2(){
     return (
     <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">

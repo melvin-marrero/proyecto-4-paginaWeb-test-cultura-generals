@@ -2,5 +2,14 @@
  body{
     background-image: url(imagen/fondo.jpg);
  }
+ .carousel-inner{
+   background-color: #82E0AA;
+   text-align: center;
+   font-size: 15px;
+   height: 30px;
+}
+.carousel-item{
+  line-height: 25px;
+}
 
   
