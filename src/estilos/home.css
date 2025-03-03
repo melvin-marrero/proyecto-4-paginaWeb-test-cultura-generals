@@ -8,9 +8,12 @@
 
 h4{
     text-align: center;
-    font-weight: bold;
-    color: #6a08fc;
+    color: white;
     text-transform: capitalize;
+    background: orange;
+    padding: 10px; 
+    border-radius: 10px;
+    font-family: "Jersey 10", sans-serif;
 }
 .img-home{
     border-radius: 50%;
@@ -27,7 +30,9 @@ h4{
     padding: 15px;
     font-weight: bold;
     font-size: 23px;
+    transition: background-color 0.3s;
 }
+
 .btn-level-2{
     background-color: rgb(246, 242, 11);
     color: white;
@@ -39,6 +44,7 @@ h4{
     font-weight: bold;
     font-size: 23px;
     text-decoration: none;
+    transition: background-color 0.3s;
 }
 .btn-level-3{
     background-color: rgb(11, 160, 246);
@@ -50,6 +56,7 @@ h4{
     padding: 15px;
     font-weight: bold;
     font-size: 23px;
+    transition: background-color 0.3s;
 }
 .btn:hover{
     background-color: #ccc;
@@ -57,6 +64,7 @@ h4{
 }
 .link{
     color: white;
+    text-decoration: none;
 }
 .link:hover{
     color: black;  

@@ -1,5 +1,5 @@
 import Carrusel2 from "./carrusel";
-import Nombrejuego from "./nombre-del-juego";
+import Nombrejuego from "./nombreJuego";
 
 export default function Layout( { children } ) {
   return (

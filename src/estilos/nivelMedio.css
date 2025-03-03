@@ -5,19 +5,6 @@ h2{
     font-size: 20px; 
 }
 
-.correct{
-    background-color: rgb(0, 94, 255);
-    color: white;
-    border: none;
-    padding: 10px;
-}
-.incorrect{
-    background-color: red;
-    color: white;
-    font-weight: bold;
-    border: none;
-    padding: 10px;
-}
 .punto{
     display: flex;
     margin: 15px;
@@ -104,6 +91,7 @@ h4{
   }
   .img-cerebro{
     width: 425px;
+    border-radius: 50%;
   }
   @media (max-width: 600px){
     .btn-play{
